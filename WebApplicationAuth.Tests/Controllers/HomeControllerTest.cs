@@ -1,6 +1,5 @@
 ﻿using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using WebApplicationAuth;
 using WebApplicationAuth.Controllers;
 
 namespace WebApplicationAuth.Tests.Controllers
